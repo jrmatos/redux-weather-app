@@ -2,4 +2,4 @@
 
 A weather forecast app built using ReactJS
 
-[Take a look!](https://jrmatos.github.io/redux-weather-app/)
+[Take a look!](http://104.131.7.68:4001/)
